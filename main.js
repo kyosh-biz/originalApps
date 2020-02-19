@@ -10,7 +10,7 @@
         div.classList.add('tbox');
         
         const img = document.createElement('img');
-        img.setAttribute("src","img/宝箱.png");
+        img.setAttribute("src","宝箱.png");
         img.classList.add('img');
 
         const item = document.createElement('span');
