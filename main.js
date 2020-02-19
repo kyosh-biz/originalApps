@@ -10,7 +10,7 @@
         div.classList.add('tbox');
         
         const img = document.createElement('img');
-        img.setAttribute("src","宝箱.png");
+        img.setAttribute("src","https://github.com/kyosh-biz/originalApps/blob/master/%E5%AE%9D%E7%AE%B1.png?raw=true");
         img.classList.add('img');
 
         const item = document.createElement('span');
