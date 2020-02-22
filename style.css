@@ -48,9 +48,19 @@ h1 {
 }
 
 .star5 {
-    color: lime;
+    color: white;
     font-weight: bold;
-    background-color: #f529ea;
+    /* background-color: #f529ea; */
+    /* background:linear-gradient(#F89174, #FFC778); */
+  /* 虹色グラデーション編集CSS  */
+  background : linear-gradient(128deg, 
+                               red,
+                               orange,
+                               yellow,
+                               green,
+                               aqua,
+                               blue,
+                               purple);
     box-shadow: 5px 5px 5px yellow;
     transform: rotate(1080deg) scale(1.3);
 }
